@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="İmageProsessModelStoreContainer" CdmEntityContainer="İmageProsessEntities">
+    <EntitySetMapping Name="Images">
+      <EntityTypeMapping TypeName="İmageProsessModel.Images">
+        <MappingFragment StoreEntitySet="Images">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ImageFile" ColumnName="ImageFile" />
+          <ScalarProperty Name="ImageFilePath" ColumnName="ImageFilePath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

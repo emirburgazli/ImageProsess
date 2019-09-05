@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\bin\asp_ImageProsess.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\bin\asp_ImageProsess.dll
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\bin\asp_ImageProsess.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\obj\Debug\asp_ImageProsess.dll
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\obj\Debug\asp_ImageProsess.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2013\Projects\asp_ImageProsess\asp_ImageProsess\obj\Debug\asp_ImageProsess.csprojResolveAssemblyReference.cache
